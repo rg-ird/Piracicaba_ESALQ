@@ -17,11 +17,11 @@ Students should be familiar with the [jupyter notebook](https://jupyter-notebook
 Finaly you should download the program of the course usig git as follow: ->go to the git web site of the course ->clone the course: git clone 'adress'.
 Students are invited to follow the session Intro_LINUX using jupyter notebook before the course
 
-session_1: Introduction to Oxford Nanopore; Getting to know the Fast5 format; Calling reads with Guppy.  
-session_2: Quality control of fastq reads, Mapping reads against a reference genome with Minimap2.  
-session_3: Genome assembly with Minimap2 and Miniasm, Flye and Raven.  
-session_4: Polishing of the assemblies with Racon and Medaka.  
-session_5: Quality of the assemblies with Quast and BUSCO.  
+session_1: Introduction to Oxford Nanopore; Getting to know the `Fast5` format; Calling reads with `Guppy`.  
+session_2: Quality control of fastq reads, Mapping reads against a reference genome with `Minimap2`.  
+session_3: Genome assembly with `Minimap2` and `Miniasm`, `Flye` and `NGSEP`.  
+session_4: Polishing of the assemblies with `Racon` and `Medaka`.  
+session_5: Quality of the assemblies with `Quast` and `BUSCO`.  
 
 # Download data for each session. (It will appear just before the session)
  
