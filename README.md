@@ -23,7 +23,7 @@ session_3: Genome assembly with Minimap2 and Miniasm, Flye and Raven.
 session_4: Polishing of the assemblies with Racon and Medaka.  
 session_5: Quality of the assemblies with Quast and BUSCO.  
 
-# Download data for each session. (It will appears just before the session)
+# Download data for each session. (It will appear just before the session)
 session_0:  
 session_1:     
 session_2:   
