@@ -11,8 +11,8 @@ We will see how to obtain nucleotide sequences from electrical signals, see the 
 
 # Program:
 session_0: Before the start of the course, students should have installed the necessary software for the course, such as:  
--a virtual machine running Linux os (excpet for Linux and Macos users).  
--Anaconda https://www.anaconda.com/products/distribution   
+-a virtual machine running Linux os (excpet for Linux and MacOs users).  
+-[Anaconda](https://www.anaconda.com/products/distribution)   
 Students should be familiar with the jupyter notebook https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Notebook%20Basics.html (type jupyter notebook in your teminal).  
 Finaly you should download the program of the course usig git as follow: ->go to the git web site of the course ->clone the course: git clone 'adress'.
 Students are invited to follow the session Intro_LINUX using jupyter notebook before the course
