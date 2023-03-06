@@ -26,5 +26,5 @@ session_5: Quality of the assemblies with `Quast` and `BUSCO`.
 # Download data for each session. (It will appear just before the session)
  
 
-Romain Guyot, IRD. 
-https://www.genomecoffea.org
+Romain Guyot, IRD.  
+[GenomeCoffea](https://www.genomecoffea.org)
