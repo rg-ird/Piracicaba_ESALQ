@@ -11,25 +11,20 @@ We will see how to obtain nucleotide sequences from electrical signals, see the 
 
 # Program:
 session_0: Before the start of the course, students should have installed the necessary software for the course, such as:  
--a virtual machine running Linux os (excpet for Linux and Macos users).  
--Anaconda https://www.anaconda.com/products/distribution   
-Students should be familiar with the jupyter notebook https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Notebook%20Basics.html (type jupyter notebook in your teminal).  
+-a virtual machine running Linux os (excpet for Linux and MacOs users).  
+-[Anaconda](https://www.anaconda.com/products/distribution)   
+Students should be familiar with the [jupyter notebook](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Notebook%20Basics.html) (type jupyter notebook in your teminal).  
 Finaly you should download the program of the course usig git as follow: ->go to the git web site of the course ->clone the course: git clone 'adress'.
 Students are invited to follow the session Intro_LINUX using jupyter notebook before the course
 
-session_1: Introduction to Oxford Nanopore; Getting to know the Fast5 format; Calling reads with Guppy.  
-session_2: Quality control of fastq reads, Mapping reads against a reference genome with Minimap2.  
-session_3: Genome assembly with Minimap2 and Miniasm, Flye and Raven.  
-session_4: Polishing of the assemblies with Racon and Medaka.  
-session_5: Quality of the assemblies with Quast and BUSCO.  
+session_1: Introduction to Oxford Nanopore; Getting to know the `Fast5` format; Calling reads with `Guppy`.  
+session_2: Quality control of fastq reads, Mapping reads against a reference genome with `Minimap2`.  
+session_3: Genome assembly with `Minimap2` and `Miniasm`, `Flye` and `NGSEP`.  
+session_4: Polishing of the assemblies with `Racon` and `Medaka`.  
+session_5: Quality of the assemblies with `Quast` and `BUSCO`.  
 
 # Download data for each session. (It will appear just before the session)
-session_0:  
-session_1:     
-session_2:   
-session_3:   
-session_4:   
-session_5:   
+ 
 
-Romain Guyot, IRD. 
-https://www.genomecoffea.org
+Romain Guyot, IRD.  
+[GenomeCoffea](https://www.genomecoffea.org)
