@@ -23,7 +23,8 @@ session_3: Genome assembly with `Minimap2` and `Miniasm`, `Flye` and `NGSEP`.
 session_4: Polishing of the assemblies with `Racon` and `Medaka`.  
 session_5: Quality of the assemblies with `Quast` and `BUSCO`.  
 
-# Download data for each session. (It will appear just before the session)
+Download data.  
+-Results for session_3: https://filesender.renater.fr/?s=download&token=9a751a66-ef9f-4871-a691-0cef38a7f705
  
 
 Romain Guyot, IRD.  
