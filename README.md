@@ -24,7 +24,7 @@ session_4: Polishing of the assemblies with `Racon` and `Medaka`.
 session_5: Quality of the assemblies with `Quast` and `BUSCO`.  
 
 Download data.  
--Corrected reads: https://filesender.renater.fr/?s=download&token=abfa6c11-00e1-43e0-908a-3bff56fb79f9
+-Corrected reads: https://filesender.renater.fr/?s=download&token=abfa6c11-00e1-43e0-908a-3bff56fb79f9   
 -Results for session_3: https://filesender.renater.fr/?s=download&token=9a751a66-ef9f-4871-a691-0cef38a7f705
  
 
