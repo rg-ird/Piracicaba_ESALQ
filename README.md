@@ -30,7 +30,7 @@ session_5: Quality of the assemblies with `Quast` and `BUSCO`.
 -Quast results: https://filesender.renater.fr/?s=download&token=114177c4-9701-4a2d-95c6-34e6a024245b. 
 
 **Session_6**.  
-
+-Dataset of proteus mirabilis: https://filesender.renater.fr/?s=download&token=8283bc0c-4055-4681-8fe0-62bde6835dfa.  
 
 
 Romain Guyot, IRD.  
