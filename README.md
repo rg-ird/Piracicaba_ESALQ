@@ -31,7 +31,7 @@ session_5: Quality of the assemblies with `Quast` and `BUSCO`.
 **session_5**.  
 -Assemblies: https://filesender.renater.fr/?s=download&token=df3c6f59-9c42-4643-8c33-715369ff6e86.  
 -Quast_results: https://filesender.renater.fr/?s=download&token=e7dacb47-6e66-430e-8874-86d7490a9697.   
--Busco_results:   https://filesender.renater.fr/?s=download&token=0bd78716-965f-42f4-afb5-12f31953d6eb    
+-Busco_results: https://filesender.renater.fr/?s=download&token=0bd78716-965f-42f4-afb5-12f31953d6eb.    
 **Session_6**.  
 -Dataset of proteus mirabilis: https://filesender.renater.fr/?s=download&token=8283bc0c-4055-4681-8fe0-62bde6835dfa.  
 
