@@ -25,10 +25,13 @@ session_5: Quality of the assemblies with `Quast` and `BUSCO`.
 
 **Download data**.  
 **Session_3**.  
--Corrected reads: https://filesender.renater.fr/?s=download&token=abfa6c11-00e1-43e0-908a-3bff56fb79f9   
--Results for session_3: https://filesender.renater.fr/?s=download&token=9a751a66-ef9f-4871-a691-0cef38a7f705. 
--Quast results: https://filesender.renater.fr/?s=download&token=114177c4-9701-4a2d-95c6-34e6a024245b. 
-
+-Corrected reads: https://filesender.renater.fr/?s=download&token=abfa6c11-00e1-43e0-908a-3bff56fb79f9    
+-Results for session_3: https://filesender.renater.fr/?s=download&token=9a751a66-ef9f-4871-a691-0cef38a7f705.  
+-Quast results: https://filesender.renater.fr/?s=download&token=114177c4-9701-4a2d-95c6-34e6a024245b.    
+**session_5**.  
+-Assemblies: https://filesender.renater.fr/?s=download&token=df3c6f59-9c42-4643-8c33-715369ff6e86.  
+-Quast_results: https://filesender.renater.fr/?s=download&token=e7dacb47-6e66-430e-8874-86d7490a9697.   
+-Busco_results: https://filesender.renater.fr/?s=download&token=98f3313c-3676-4118-ab04-fb74e391df9b.  
 **Session_6**.  
 -Dataset of proteus mirabilis: https://filesender.renater.fr/?s=download&token=8283bc0c-4055-4681-8fe0-62bde6835dfa.  
 
